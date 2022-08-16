@@ -1,2 +1,0 @@
-programming_words = {" Variable.append: to add a value onto the list \nVariable.remove: to remove a value off the list \nVariable.pop 'to return the value it removed' \nVariable.insert 'insert a value to a specific location on the list' \nVariable.sort 'to put a list of values in alphabetical order' "}
-print(programming_words)
