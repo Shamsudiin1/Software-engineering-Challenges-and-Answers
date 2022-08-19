@@ -1,0 +1,5 @@
+a = 'hello' # line 1 
+def x(a,b): # line 2 
+ z = a[0] # line 3 
+ return z # line 4 
+print(x(a)) # line 5 

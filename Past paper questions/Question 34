@@ -1,0 +1,12 @@
+# Example 1 
+x = 1 
+y = 0 
+z = x%y 
+print(z) 
+# Example 2 
+x = 1 
+y = 0 
+z = x/y 
+print(z) 
+#The answer is C
+
