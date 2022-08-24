@@ -1,10 +1,10 @@
-x = (input('number of classes held?: '))
-y = (input('How many classes attended?: '))
-Ali = x + y
+classes_held = float(input('number of classes held?: '))
+classes_attended = float(input('How many classes attended?: '))
 
-if y >= x:
-    print('Ali is allowed to sit the exam')
+perscentage = (classes_attended/classes_held)*100
+
+if perscentage > 75:
+    print('Student is allowed to sit the exam')
 else:
-    print('Ali is not allowed to sit the exam')
-print(Ali)
+    print('Student is not allowed to sit the exam')
 
